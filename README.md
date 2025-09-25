@@ -31,7 +31,8 @@ The task involved:
 ## Repository Contents
 - `README.md` (this file)  
 - `task3report.pdf` – Full detailed report with vulnerability tables, research, and remediation steps.  
-- `.csv` scan result file (if attached in repository).  
+- `ScannedVulnerabilities.csv` scan result file in .csv format. (For Raw DATA)
+-  `ScannedVulnerabilities.pdf` scan result file in .pdf format. (For Readable DATA)
 
 ## Author
 **Kush Thaker**  
