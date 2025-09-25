@@ -1,0 +1,31 @@
+Vulnerabilities,Affected Systems,Exploit Status,Patch Availability,CVSS 3.0 Score,CVSS 2.0 Score,Published Date,Discovered Date,Patch ID,Patch Name
+WinVerifyTrust Signature Validation Vulnerability(CVE 2013 3900),1,Available,Not available,8.7,7.6,"Dec 11, 2013","Sep 25, 2025",,
+Multiple vulnerabilities fixed in Photoshop CC 21.2.1,1,Not available,Not available,8.7,6.8,"Nov 5, 2020","Sep 25, 2025",,
+"Vulnerabilities CVE-2025-53816,CVE-2025-53817 are fixed in 7zip (x64) (.exe package) (25.0.0)",1,Not available,Available,,,"Jul 17, 2025","Sep 25, 2025",350315,7z2501-x64.exe
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.2,1,Not available,Not available,7.7,6.9,"Oct 21, 2020","Sep 25, 2025",,
+Vulnerabilities CVE-2025-8088 are affected in WinRAR (X64) 7.12-beta1,1,Not available,Available,,,"Aug 8, 2025","Sep 25, 2025",350239,winrar-x64-7.13.exe
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.10,1,Not available,Not available,7.7,9.3,"Sep 1, 2021","Sep 25, 2025",,
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.9,1,Not available,Not available,7.7,6.9,"Oct 21, 2020","Sep 25, 2025",,
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.8,1,Not available,Not available,7.7,9.3,"Aug 20, 2021","Sep 25, 2025",,
+"Vulnerabilities CVE-2024-33899,CVE-2024-36052 are affected in WinRAR (X64) 6.99",1,Not available,Available,7.5,,"Apr 29, 2024","Sep 25, 2025",350239,winrar-x64-7.13.exe
+"Vulnerabilities CVE-2025-22224,CVE-2025-22226 are Fixed in VMware Workstation 17 (17.6.3)",1,Not available,Not available,9.3,,"Mar 4, 2025","Sep 25, 2025",,
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.4,1,Not available,Not available,7.7,9.3,"Feb 11, 2021","Sep 25, 2025",,
+Vulnerabilities CVE-2024-46461 are affected in VLC Media Player (MSI) (x64) 3.0.20,1,Not available,Not available,8.0,,"Sep 25, 2024","Sep 25, 2025",,
+"Vulnerabilities CVE-2025-10148,CVE-2025-9086 are fixed in Curl For Windows 8.16.0",1,Not available,Not available,7.5,,"Sep 12, 2025","Sep 25, 2025",,
+"Vulnerabilities CVE-2025-10890,CVE-2025-10891,CVE-2025-10892 are fixed in Google Chrome (x64) (140.0.7339.207,140.0.7339.208)",1,Not available,Available,9.1,,"Sep 24, 2025","Sep 25, 2025",351779,googlechromestandaloneenterprise64_140.0.7339.208.msi
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.0,1,Not available,Not available,8.7,6.8,"Nov 5, 2020","Sep 25, 2025",,
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.9,1,Not available,Not available,7.7,9.3,"Aug 20, 2021","Sep 25, 2025",,
+Vulnerabilities CVE-2024-43590 are fixed in Microsoft Visual C++ 2015-2022 Redistributable (x64) 14.40.33816,1,Not available,Not available,7.7,,"Oct 8, 2024","Sep 25, 2025",,
+Vulnerabilities CVE-2025-8088 are affected in WinRAR (X64) 7.12,1,Not available,Available,,,"Aug 8, 2025","Sep 25, 2025",350239,winrar-x64-7.13.exe
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.6,1,Not available,Not available,7.7,6.8,"Apr 15, 2021","Sep 25, 2025",,
+"Vulnerabilities CVE-2025-41225,CVE-2025-41226,CVE-2025-41227,CVE-2025-41228 are fixed in VMware Workstation 17 (17.6.3) (Manual Upload Required)",1,Not available,Available,8.8,,"May 21, 2025","Sep 25, 2025",349803,VMware-workstation-full-17.6.4-24832109.exe
+Vulnerabilities CVE-2024-11477 are fixed in 7 Zip (exe) (x64) (24.07),1,Not available,Available,7.7,,"Nov 22, 2024","Sep 25, 2025",350315,7z2501-x64.exe
+Vulnerabilities CVE-2023-46814 are affected in VLC Media Player (X64) 3.0.18,1,Not available,Available,7.7,,"Nov 22, 2023","Sep 25, 2025",339135,vlc-3.0.21-win64.exe
+"Vulnerabilities CVE-2023-47359,CVE-2023-47360 are affected in VLC Media Player (X64) 3.0.19",1,Not available,Available,9.8,,"Nov 7, 2023","Sep 25, 2025",339135,vlc-3.0.21-win64.exe
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.5,1,Not available,Not available,7.7,9.3,"Mar 12, 2021","Sep 25, 2025",,
+Vulnerabilities CVE-2024-11612 are fixed in 7 Zip (exe) (x64) (24.08),1,Not available,Available,6.4,,"Nov 22, 2024","Sep 25, 2025",350315,7z2501-x64.exe
+Vulnerabilities CVE-2025-0411 are fixed in 7 Zip (exe) (x64) (24.09),1,Not available,Available,7.0,,"Jan 25, 2025","Sep 25, 2025",350315,7z2501-x64.exe
+Vulnerability CVE-2020-13428 are affected in VLC Media Player (X64) 3.0.10,1,Not available,Available,7.7,6.8,"Jun 8, 2020","Sep 25, 2025",339135,vlc-3.0.21-win64.exe
+Vulnerabilities CVE-2025-6218 are affected in WinRAR (X64) 7.11,1,Not available,Available,7.8,,"Jun 21, 2025","Sep 25, 2025",350239,winrar-x64-7.13.exe
+Vulnerabilities CVE-2025-31334 are affected in WinRAR (X64) 7.10,1,Not available,Available,6.8,,"Apr 3, 2025","Sep 25, 2025",350239,winrar-x64-7.13.exe
+Multiple Vulnerabilities are affected in Adobe Photoshop 21.2.11,1,Not available,Not available,7.7,9.3,"Sep 27, 2021","Sep 25, 2025",,
