@@ -39,4 +39,4 @@ The task involved:
 📧 kthaker442@gmail.com  
 
 ---
-👉 For full details and screenshots, please see the [Task3Report.pdf](./Task3Report.pdf).
+👉 For full detailed report with screenshots, please see the [Task3Report.pdf](./Task3Report.pdf).
